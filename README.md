@@ -33,7 +33,7 @@ digit-recognizer/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/digit-recognizer.git
+git clone https://github.com/rksfn/digit-recognizer.git
 cd digit-recognizer
 ```
 
